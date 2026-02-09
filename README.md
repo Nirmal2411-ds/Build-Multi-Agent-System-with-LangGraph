@@ -41,11 +41,8 @@ Final Blog Post
 📁 Project Structure  
 multi-agent-langgraph/  
 │
-├── main.py              # Entry point  
-├── agents.py            # Researcher & Writer nodes  
-├── state.py             # Shared state definition  
-├── graph.py             # Graph wiring  
-├── requirements.txt  
+├── requirements.txt 
+├── multi_agent.py
 └── README.md  
 
 ✅ Prerequisites
